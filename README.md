@@ -11,6 +11,7 @@ i am student <br>learnig fullstack java development<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=for-the-badge&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ajaykumar47git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
